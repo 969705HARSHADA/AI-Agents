@@ -21,10 +21,10 @@ The processed email is marked as read.
 The generated response is automatically sent back through Gmail.
 
 # Technologies Used
-n8n Automation Platform
-Gmail API
-Google Gemini AI
-Workflow Automation
+n8n Automation Platform,
+Gmail API,
+Google Gemini AI,
+Workflow Automation,
 AI-based Natural Language Processing
 
 # Use Cases
